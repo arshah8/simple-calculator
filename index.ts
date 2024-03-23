@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#!/usr/bin/env node
 
 //imported inquirer to take user input
 import inquirer from "inquirer";
